@@ -1,0 +1,1 @@
+web: node websocket/xsound-server-session-websocket.js 8000 log/websocket.log; node websocket/xsound-server-session-websocket.js 8001 log/websocket.log; node websocket/xsound-server-session-websocket.js 8002 log/websocket.log; node websocket/xsound-server-session-websocket.js 8003 log/websocket.log;
