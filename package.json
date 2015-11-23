@@ -1,0 +1,22 @@
+{
+  "name": "x-sound-websocket",
+  "version": "0.0.0",
+  "description": "WebSocket server for X Sound",
+  "keywords": [
+    "X Sound",
+    "X-Sound",
+    "XSound.js",
+    "XSound",
+    "JavaScript",
+    "HTML5",
+    "Web Audio API",
+    "Web MIDI API",
+    "WebRTC"
+  ],
+  "author": "Korilakkuma <rilakkuma.san.xjapan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.22",
+    "ws": "^0.8.0"
+  }
+}
